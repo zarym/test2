@@ -1,0 +1,5 @@
+IMAGE_INSTALL_append = " peekpoke"
+IMAGE_INSTALL_append = " gpio-demo"
+IMAGE_INSTALL_append = " libiio"
+IMAGE_INSTALL_append = " libiio-iiod"
+IMAGE_INSTALL_append = " libad9361-iio"
